@@ -1,0 +1,31 @@
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\bin\Release\Resources\FirmataVB.ico
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\bin\Release\FirmataVB.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\bin\Release\FirmataVB.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\bin\Release\FirmataVB.xml
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\obj\Release\Firmata.Resources.resources
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\obj\Release\Firmata.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\obj\Release\FirmataVB.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\obj\Release\FirmataVB.xml
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\Firmata\Firmata\obj\Release\FirmataVB.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\bin\Release\Resources\FirmataVB.ico
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\bin\Release\FirmataVB.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\bin\Release\FirmataVB.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\bin\Release\FirmataVB.xml
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\obj\Release\Firmata.Resources.resources
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\obj\Release\Firmata.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\obj\Release\FirmataVB.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\obj\Release\FirmataVB.xml
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\FirmataVB Projects\FirmataVB\Firmata\obj\Release\FirmataVB.pdb
+C:\!420\FirmataVB Projects\Firmata\bin\Release\Resources\FirmataVB.ico
+C:\!420\FirmataVB Projects\Firmata\bin\Release\FirmataVB.dll
+C:\!420\FirmataVB Projects\Firmata\bin\Release\FirmataVB.pdb
+C:\!420\FirmataVB Projects\Firmata\bin\Release\FirmataVB.xml
+C:\!420\FirmataVB Projects\Firmata\obj\Release\Firmata.Resources.resources
+C:\!420\FirmataVB Projects\Firmata\obj\Release\Firmata.vbproj.GenerateResource.cache
+C:\!420\FirmataVB Projects\Firmata\obj\Release\Firmata.vbproj.CoreCompileInputs.cache
+C:\!420\FirmataVB Projects\Firmata\obj\Release\FirmataVB.dll
+C:\!420\FirmataVB Projects\Firmata\obj\Release\FirmataVB.xml
+C:\!420\FirmataVB Projects\Firmata\obj\Release\FirmataVB.pdb
+C:\!420\FirmataVB Projects\Firmata\obj\Release\Firmata.vbprojAssemblyReference.cache
